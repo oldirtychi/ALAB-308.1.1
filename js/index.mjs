@@ -9,7 +9,6 @@ const n4 = 5;
 // arithmetic operators and a comparison.
 // const isSum50 = (n1 + n2 + n3 + n4) == 50;
 
-
 // // Check two: at least two odd numbers
 // // Here, we use modulus to check if something is odd.
 // // Since % 2 is 0 if even and 1 if odd, we can use
@@ -71,5 +70,29 @@ console.log(allDivisibleBy5)
 
 console.log(arithmeticChain)
 
+//PART 2
 
+
+// You are planning a cross-country road trip!
+// The distance of the trip, in total, is 1,500 miles.
+
+// Your car’s fuel efficiency is as follows:
+// At 55 miles per hour, you get 30 miles per gallon.
+// At 60 miles per hour, you get 28 miles per gallon.
+// At 75 miles per hour, you get 23 miles per gallon.
+
+// You have a fuel budget of $175.
+
+// The average cost of fuel is $3 per gallon.
+
+// Set up a program to answer the following questions:
+// How many gallons of fuel will you need for the entire trip?
+// Will your budget be enough to cover the fuel expense?
+// How long will the trip take, in hours?
+
+
+
+
+// Compare the results when traveling at an average of 55, 60, and 75 miles per hour. Which makes the most sense for the trip?
+// Log the results of your calculations using string concatenation or template literals.
 
